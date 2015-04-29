@@ -2,20 +2,20 @@
 
 ###What is your name?
 
-Your answer goes here
+Madeline Jane Bagby
 
 ###What is your favorite color?
 
-Your answer goes here
+Hunter Green
 
 ###Cats or Dogs?
 
-Your answer goes here
+Indecisive, I like both. Next pet I will be getting is a dog though.
 
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
+Great food. Great weather. Great activity to do outside. Great company.
 
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+Walt Disney(...If we are allowed dead people) Otherwise Sarah from Imgur.
